@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Systems Neurobiology, Institute of Clinical Neurobiology, University Hospital Würzburg, Würzburg, Germany"
+    family-names: Segebarth
+    given-names: Dennis
+    orcid: "https://orcid.org/0000-0002-3806-9324"
+cff-version: "1.1.0"
+date-released: 2021-09-15
+identifiers: 
+message: "If you use this software, please cite it using these metadata."
+title: "ImageJ macro collection by DSegebarth"
+version: "v0.1.0"
+...
